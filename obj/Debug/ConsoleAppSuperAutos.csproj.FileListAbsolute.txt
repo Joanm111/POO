@@ -1,0 +1,16 @@
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\bin\Debug\ConsoleAppSuperAutos.exe.config
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\bin\Debug\ConsoleAppSuperAutos.exe
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\bin\Debug\ConsoleAppSuperAutos.pdb
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.csproj.AssemblyReference.cache
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.csproj.SuggestedBindingRedirects.cache
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.csproj.CoreCompileInputs.cache
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.exe
+C:\Users\joanj\source\repos\ConsoleAppSuperAutos\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.pdb
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\bin\Debug\ConsoleAppSuperAutos.exe.config
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\bin\Debug\ConsoleAppSuperAutos.exe
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\bin\Debug\ConsoleAppSuperAutos.pdb
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.csproj.AssemblyReference.cache
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.csproj.SuggestedBindingRedirects.cache
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.csproj.CoreCompileInputs.cache
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.exe
+C:\Users\joanj\Desktop\ConsoleAppSuperAutos\obj\Debug\ConsoleAppSuperAutos.pdb
